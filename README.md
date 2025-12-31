@@ -14,6 +14,7 @@ ALAR is a licensed assessment and governance framework designed to restore evalu
 
 It does this by making reasoning, revision, and responsibility inspectable—without relying on AI detection, surveillance, or performative ethics.
 
+
 **The Problem**
 
 Large language models can now produce:
@@ -26,9 +27,11 @@ polished explanations
 
 at near-zero cost.
 
+
 **As a result, institutions face a structural failure:**
 
 They can no longer reliably distinguish understanding from output.
+
 
 **This affects:**
 
@@ -48,6 +51,7 @@ ALAR is not a course, tool, or AI detector.
 
 **It is an architecture: a set of assessment and governance modules that constrain how reasoning must be demonstrated, revised, and defended—even when AI is used.
 **
+
 **Core principles:**
 
 AI use is permitted, not hidden
@@ -57,6 +61,7 @@ judgment is evaluated, not prose
 responsibility is traceable
 
 failure modes are documented
+
 
 **What’s Included**
 
@@ -74,6 +79,7 @@ Transfer & Application-Level Judgment Checks (TAL-JC)
 
 Each module can be used independently or combined, depending on institutional needs.
 
+
 **Who This Is For**
 
 ALAR is designed for:
@@ -86,6 +92,7 @@ organizations where decisions must be justified, not merely produced
 
 educators and leaders who require defensible evaluation frameworks
 
+
 **If you are looking for:**
 
 AI prohibition
@@ -97,6 +104,7 @@ motivational training
 generic “critical thinking” content
 
 **ALAR is not the right solution.**
+
 
 **Licensing**
 
@@ -111,6 +119,7 @@ adapt modules to local contexts
 reference ALAR in policy or governance documentation
 
 Redistribution without a license is not permitted.
+
 
 **Get the Framework**
 
@@ -127,6 +136,7 @@ licensing terms
 👉 Get ALAR Framework v1.0
 (link to Gumroad)
 
+
 **About**
 
 ALAR was developed in response to real-world assessment breakdowns caused by AI-mediated workflows.
@@ -137,7 +147,8 @@ No hype.
 No moral theater.
 Just structure.
 
-Why This Works
+
+**Why This Works**
 
 This framework:
 
