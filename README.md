@@ -1,22 +1,20 @@
 # ALAR
 Assessment &amp; Learning Architecture for Reasoned Judgment in AI-mediated environments.
-ALAR
+**ALAR**
 
-ALAR
+**ALAR**
 
-Assessment & Learning Architecture for Reasoned Judgment
+**Assessment & Learning Architecture for Reasoned Judgment**
 
 AI has made fluent output cheap.
 Judgment is now the scarce resource.
 
 
-Final check before pasting.
-
 ALAR is a licensed assessment and governance framework designed to restore evaluative signal in environments where AI-generated outputs are allowed, expected, or unavoidable.
 
 It does this by making reasoning, revision, and responsibility inspectable—without relying on AI detection, surveillance, or performative ethics.
 
-The Problem
+**The Problem**
 
 Large language models can now produce:
 
@@ -28,11 +26,11 @@ polished explanations
 
 at near-zero cost.
 
-As a result, institutions face a structural failure:
+**As a result, institutions face a structural failure:**
 
 They can no longer reliably distinguish understanding from output.
 
-This affects:
+**This affects:**
 
 education and credentialing
 
@@ -48,9 +46,9 @@ What ALAR Is
 
 ALAR is not a course, tool, or AI detector.
 
-It is an architecture: a set of assessment and governance modules that constrain how reasoning must be demonstrated, revised, and defended—even when AI is used.
-
-Core principles:
+**It is an architecture: a set of assessment and governance modules that constrain how reasoning must be demonstrated, revised, and defended—even when AI is used.
+**
+**Core principles:**
 
 AI use is permitted, not hidden
 
@@ -60,7 +58,7 @@ responsibility is traceable
 
 failure modes are documented
 
-What’s Included
+**What’s Included**
 
 The ALAR Framework includes modular components such as:
 
@@ -76,7 +74,7 @@ Transfer & Application-Level Judgment Checks (TAL-JC)
 
 Each module can be used independently or combined, depending on institutional needs.
 
-Who This Is For
+**Who This Is For**
 
 ALAR is designed for:
 
@@ -88,7 +86,7 @@ organizations where decisions must be justified, not merely produced
 
 educators and leaders who require defensible evaluation frameworks
 
-If you are looking for:
+**If you are looking for:**
 
 AI prohibition
 
@@ -98,9 +96,9 @@ motivational training
 
 generic “critical thinking” content
 
-ALAR is not the right solution.
+**ALAR is not the right solution.**
 
-Licensing
+**Licensing**
 
 ALAR is provided under a usage license, not as open content.
 
@@ -114,7 +112,7 @@ reference ALAR in policy or governance documentation
 
 Redistribution without a license is not permitted.
 
-Get the Framework
+**Get the Framework**
 
 ALAR Framework v1.0 includes:
 
@@ -129,7 +127,7 @@ licensing terms
 👉 Get ALAR Framework v1.0
 (link to Gumroad)
 
-About
+**About**
 
 ALAR was developed in response to real-world assessment breakdowns caused by AI-mediated workflows.
 
