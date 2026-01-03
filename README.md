@@ -1,4 +1,4 @@
-# ALAR
+# ALAR 1.1v
 Assessment &amp; Learning Architecture for Reasoned Judgment in AI-mediated environments.
 **ALAR**
 
@@ -157,3 +157,15 @@ signals seriousness without marketing language
 filters out misaligned use cases
 
 treats judgment as infrastructure, not opinion
+
+**New Addition to 1.1 ALAR Readiness Gate Use it before every session included in framework**
+
+What the ALAR Readiness Gate Solves
+
+The ALAR Readiness Gate prevents adversarial learning from collapsing into performance, compliance, or bad-faith debate.
+
+Many frameworks fail not because the method is weak, but because participants enter with incompatible incentives—seeking validation, status protection, or predetermined outcomes. In those conditions, critique becomes ritualized, alternatives are weakened, and responsibility is quietly avoided.
+
+The Readiness Gate introduces an early, low-cost filter that makes cognitive good faith visible before the process begins. By requiring participants to articulate opposing claims, failure conditions, and personal incentives, it exposes whether they are prepared to revise judgment under pressure.
+
+This ensures ALAR is used only in contexts where adversarial challenge can improve reasoning rather than simulate it—and gives ethical permission to pause or withdraw the framework when those conditions are not met.
