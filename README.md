@@ -133,7 +133,7 @@ documentation of known failure modes
 
 licensing terms
 
-👉 Get ALAR Framework v1.0 https://mikykanazawa.gumroad.com/l/tizbog
+👉 Get ALAR Framework v1.1 https://mikykanazawa.gumroad.com/l/tizbog
 (link to Gumroad)
 
 
