@@ -158,7 +158,7 @@ filters out misaligned use cases
 
 treats judgment as infrastructure, not opinion
 
-**New Addition to 1.1 ALAR Readiness Gate Use it before every session included in framework**
+**New in v1.1: ALAR Readiness Gate (Required Before Every Session)**
 
 What the ALAR Readiness Gate Solves
 
